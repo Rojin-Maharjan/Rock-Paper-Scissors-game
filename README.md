@@ -45,7 +45,7 @@ cd Rock-Paper-Scissors-game
 Make sure you have Python 3 installed.
 
 ```bash
-python rock_paper_scissors.py
+python rockpaperscissor.py
 ```
 
 ---
