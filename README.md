@@ -11,10 +11,6 @@ This is a simple **Rock, Paper, Scissors** game implemented in **Python**, where
 
 ## How to Play
 
-```
-
-````
-
 You choose one of the following:
 - `r` → Rock
 - `p` → Paper
@@ -80,4 +76,3 @@ python rock_paper_scissors.py
 This project is licensed under the MIT License.
 Feel free to use, modify, or contribute!
 
-```
