@@ -36,8 +36,8 @@ The computer will randomly choose one as well, and the winner of the round will 
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:rojin-maharjan/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone git@github.com:Rojin-Maharjan/Rock-Paper-Scissors-game.git
+cd Rock-Paper-Scissors-game
 ````
 
 ### 2. Run the game
